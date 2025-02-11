@@ -14,7 +14,7 @@ The project features a **Streamlit web app** where users can **select a region o
 ✅ **Coastal Pattern Classification** – Identifies water, vegetation, urban, and wetland areas.  
 ✅ **Dynamic Summary Generation** – Provides an **insightful report** instead of raw pixel statistics.  
 ✅ **Error Handling & Logging** – Prevents crashes and logs issues for debugging.  
-✅ **Supports Multiple Timeframes** – Analyze coastal changes from **1984 to 2024**.  
+✅ **Supports Multiple Timeframes** – Analyze coastal changes from **2003 to 2024**.  
 ✅ **Google Earth Engine Integration** – Uses **GEE API** for large-scale geospatial analysis.
 
 ---
